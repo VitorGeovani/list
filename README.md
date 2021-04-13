@@ -17,4 +17,4 @@
 
 ### :information_source: Para acessar a versão de teste da minha Lista de Compras, acesse: 
 
-:link: 
+:link: **https://lista-de-compras-reactjs.netlify.app/**
